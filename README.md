@@ -61,7 +61,7 @@ The notebooks are organized as a step-by-step NLP pipeline:
 
 ### Topic and Sentiment Clustering
 
-<img src="Images/topic_and_sentiment_clustering.png" width="600">
+<img src="Images/topic_clustering_visualization.png" width="600">
 
 ---
 
